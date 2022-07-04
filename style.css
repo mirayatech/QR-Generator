@@ -73,3 +73,13 @@ header p {
   justify-content: center;
   border: 1px solid #ccc;
 }
+
+.wrapper.active .qr-code{
+    opacity: 1;
+    pointer-events: auto;
+    transition: opacity 0.5s 0.05s ease;
+  }
+  .qr-code img{
+    width: 170px;
+  }
+  
