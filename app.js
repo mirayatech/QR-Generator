@@ -18,3 +18,9 @@ generateButton.addEventListener('click', () => {
 
     wrapper.classList.add('active')
 })
+
+qrInput.addEventListener("keyup", () => {
+    if (qrInput.value) {
+        wrapper.classList.remove("active")
+    }
+})
