@@ -14,7 +14,6 @@ In this QR Code Generator app, users can enter a text or URL to generate a QR co
 
 ## How it looks 👀
 
-<strong>Live Demo: </strong> https://navy-qr-generator.netlify.app/
 
 
 
