@@ -12,7 +12,6 @@ In this QR Code Generator app, users can enter a text or URL to generate a QR co
 * `JavaScript`
 
 
-## How it looks 👀
 
 
 
