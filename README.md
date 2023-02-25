@@ -17,5 +17,4 @@ In this QR Code Generator app, users can enter a text or URL to generate a QR co
 
 
 
-https://user-images.githubusercontent.com/71933266/177202315-f4bd6fff-0e0f-4cbc-b45c-2c7aa0a35ef2.mp4
 
